@@ -54,13 +54,13 @@ Running the Project
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/System-Threat-Forecast.git
-cd System-Threat-Forecast
+git clone https://github.com/AditiS-2/System-threat-forecaster.git
+cd System-Threat-Forecaster
 ```
 Run the notebook:
 
 ```
-jupyter notebook notebooks/threat_forecasting.ipynb
+jupyter notebook 23f3003125-notebook-t12025.ipynb
 ```
 To use scripts:
 ```
